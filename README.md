@@ -15,5 +15,6 @@ sudo apt install nodejs</code>
  7. Install Zigbee2mqtt ([link](https://www.zigbee2mqtt.io/guide/installation/01_linux.html))
  8. Install Node-RED ([link](https://nodered.org/docs/getting-started/raspberrypi))
      1. Install Node-RED Dashboard ([link](https://flows.nodered.org/node/node-red-dashboard))
-     2. Install Node-RED Zigbee2mqtt ([link](https://flows.nodered.org/node/node-red-contrib-zigbee2mqtt))
-     3. Install Node-RED Telegram Bot ([link](https://flows.nodered.org/node/node-red-contrib-telegrambot))
+     2. Install Node-RED Timer ([link](https://flows.nodered.org/node/node-red-contrib-timer))
+     3. Install Node-RED Zigbee2mqtt ([link](https://flows.nodered.org/node/node-red-contrib-zigbee2mqtt))
+     4. Install Node-RED Telegram Bot ([link](https://flows.nodered.org/node/node-red-contrib-telegrambot))
