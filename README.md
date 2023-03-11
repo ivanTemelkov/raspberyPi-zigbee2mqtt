@@ -10,3 +10,6 @@
  
  <code>curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt install nodejs</code>
+
+ 6. Install Mosquitto Broker ([link](https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/))
+ 7. 
